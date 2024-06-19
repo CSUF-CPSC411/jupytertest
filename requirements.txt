@@ -3,3 +3,4 @@ jupyterlab==4.2.2
 jupyterlab-link-share
 jupyter-collaboration
 ipywidgets
+nbgrader
